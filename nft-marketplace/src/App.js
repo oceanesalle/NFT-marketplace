@@ -5,6 +5,7 @@ import Clients from "./components/Clients";
 import Create from "./components/Create";
 import Us from "./components/Us";
 import MarketPlace from "./components/Marketplace";
+import Subscribe from "./components/Subscribe";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Create />
       <Us />
       <MarketPlace />
+      <Subscribe />
 
     </div>
   );
