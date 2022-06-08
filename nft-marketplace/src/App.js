@@ -6,6 +6,7 @@ import Create from "./components/Create";
 import Us from "./components/Us";
 import MarketPlace from "./components/Marketplace";
 import Subscribe from "./components/Subscribe";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Us />
       <MarketPlace />
       <Subscribe />
+      <Footer />
 
     </div>
   );
