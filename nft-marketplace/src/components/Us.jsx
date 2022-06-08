@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import choose from "../assets/choose.png";
 import Button from "./Button";
-export default function Choose() {
+export default function Us() {
   return (
     <Section>
       <div className="image">
